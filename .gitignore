@@ -2,3 +2,4 @@
 *.exe
 /foo
 file.txt
+id_rsa.pub
